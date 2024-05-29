@@ -1,3 +1,3 @@
-CREATE DATABASE sql_course;
+CREATE DATABASE data_jobs;
 
--- DROP DATABASE IF EXISTS sql_course;
+-- DROP DATABASE IF EXISTS data_jobs;
